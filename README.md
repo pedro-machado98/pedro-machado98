@@ -1,6 +1,6 @@
 ### Meu nome é Pedro Machado!
 
 
-- 👨‍🎓 Curso análise e desenvolvimento de sistemas na FAETERJ
-- 🌱 Desenvolvedor Full-Stack para Abracadabra
+- 👨‍🎓 Formado em análise e desenvolvimento de sistemas
+- 🌱 Desenvolvedor Full-Stack para Open Labs
 
